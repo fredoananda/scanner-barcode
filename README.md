@@ -1,7 +1,7 @@
 # scanner-barcode
 cam scanner barcode
 # barcodescanner
-
+![logo](https://github.com/fredoananda/scanner-barcode/blob/main/Screenshot%202023-07-13%20at%2011.01.58.png)
 🎉 Congratulations, your project was successfully generated with [Create Next Stack](https://www.create-next-stack.com/)!
 
 To get started, run:
